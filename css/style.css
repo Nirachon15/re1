@@ -1,0 +1,54 @@
+.container{
+    width: 70%;
+}
+.pfooter{
+    text-align: center;
+    background-color:plum;
+}
+
+.col1{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid mediumslateblue;
+}
+.col2{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid darkturquoise;
+}
+.col3{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid palevioletred;
+}
+.col4{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid gold;
+}
+.col5{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid orange;
+}
+.col6{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid red;
+}
+.col7{
+    margin: 15px;
+    padding: 10px;
+    border: 3px solid royalblue;
+}
+.ppic{
+    text-align: center;
+}
+h1,h3{
+    text-align: center;
+    color: royalblue;
+}
+h2{
+    text-align: center;
+    color: orangered;
+}
